@@ -1,0 +1,3 @@
+Print("Hello World!")
+
+- I'm learning Lua so... yeah that's it i think...
